@@ -20,14 +20,6 @@ Soy un desarrollador Full Stack apasionado por la tecnología y el desarrollo we
 
 ---
 
-🚀 **Proyectos**
-- **Portafolio Personal** 🌐
-  - Creada usando HTML, CSS y JavaScript. Presenta mis proyectos y habilidades.
-- **Aplicación de Tareas** 📋
-  - Desarrollada con tecnologías frontend y backend, incluyendo Node.js y MongoDB. Permite gestionar tareas de manera eficiente.
-
----
-
 📫 **Contáctame**
 - **Email**: samuelhn555@gmail.com
 - **LinkedIn**: www.linkedin.com/in/samuel-hernández-97118b2aa
